@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html , body , #root {
+  height: 100%;
+}
+
+
+#root {
+  display: flex;
+  flex-direction:column;
+
+}
+
+header{
+  width: 100%;
+  height: 90px;
+  background-color: rgba(104, 82, 72, 0.904);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  
+}
+
+.brand{
+  width: 20%;
+}
+
+
+
+nav {  
+  display: flex;
+  align-items: center;
+  justify-content:end;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 15px;
+  justify-content: flex-end;
+}
+
+nav ul li {
+  margin: 10px;
+  font-family: 'Barlow', sans-serif;
+  color: #F8EFD8;
+}
+
+.contenedorCarrito{
+  display: flex;
+}
+
+.img_carrito{
+  width: 25px;
+  color: #F8EFD8;
+}
+
+.contadorCarrito{
+  color: #F8EFD8;
+  padding: 5px;
+  font-family: 'Open Sans', sans-serif;
+ 
+}
