@@ -66,3 +66,67 @@ nav ul li {
   font-family: 'Open Sans', sans-serif;
  
 }
+
+
+.pagos{
+  background-color: black;
+  color: #fff;
+  padding: 1.5rem 0.5rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.contenedorProducto{
+  width: 18rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 20px;
+  box-shadow: 2px 6px 3px rgba(100, 100, 100, 0.055);
+  
+}
+
+.verMas{
+ 
+  color: rgba(104, 82, 72, 0.904);
+}
+
+.imagenProducto{
+  width: 50%;
+  
+}
+
+
+.divPro{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.precioProducto{
+  font-family: 'Barlow', sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nombreProducto{
+  font-family: 'Barlow', sans-serif;
+  font-size:1.2rem;
+  
+}
+
+.imagenDesc{
+  width: 18rem;
+}
+
+.familyDetalle{
+  font-family: 'Barlow', sans-serif;
+}

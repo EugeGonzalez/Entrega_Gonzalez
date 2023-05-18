@@ -1,0 +1,8 @@
+    
+    [ 
+        {"id": 1, "nombre": "BODY MINI HAPPY", "precio": 5000, "cantidad": 1, "categoria": "kids", "img":"../images/bodyminihappy.webp", "descripcion":"Body de jersey, tiene abertura con botón en la espalda. Lleva bordado. Esta prenda posee en su interior una fliselina termo adhesiva que protege la piel del bordado. Composición: 100% algodón. Talle: del XS al XXL. ORIGEN: Nacional"},
+        {"id": 2, "nombre": "ZAPA MINI DEPORTIVA", "precio": 5500, "categoria": "calzado", "cantidad": 1,"img":"../images/zapaminideportiva.webp", "descripcion":"Zapa de capellada textil elastizado con suelin super flexible y antideslizante, ideal para los no caminanates. PRODUCTO NACIONAL. Talles: del 16 al 20"},
+        {"id": 3, "nombre": "GORRO BEANIE", "precio": 3000, "categoria": "accesorio", "cantidad": 1,"img":"../images/gorrobeanie.webp", "descripcion":"Gorro tejido. Se puede usar doblado generando un puño o estirado dejandolo caer por detrás. Este modelo es super canchero y unisex. Medidas: 25 cm. de alto x 36 cm. de contorno. Composicion: 100% acrilico. Talle: TU. ORIGEN: Nacional."}
+        
+    
+    ]
